@@ -1,0 +1,3 @@
+The specific heat of a substance is the number of calories needed to raise the temperature of one gram by 1oC.
+Because one degree on the Celsius scale is equal to one Kelvin,
+specific heats in the metric system can be reported in units of either cal/g-oC or cal/g-K.
